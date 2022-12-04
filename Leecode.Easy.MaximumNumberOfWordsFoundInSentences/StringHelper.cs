@@ -22,5 +22,10 @@ namespace Leecode.Easy.MaximumNumberOfWordsFoundInSentences
 
             return resultArray.Max();
         }
+
+        public int MostWordsFound(string[] sentences)
+        {
+            return sentences.Select(s => s.Split(' ').Length).Max();
+        }
     }
 }
