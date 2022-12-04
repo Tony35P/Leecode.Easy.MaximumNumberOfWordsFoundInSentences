@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leecode.Easy.MaximumNumberOfWordsFoundInSentences", "Leecode.Easy.MaximumNumberOfWordsFoundInSentences\Leecode.Easy.MaximumNumberOfWordsFoundInSentences.csproj", "{EA145F6D-C15E-47AA-BEAC-D387BB8B1533}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringHelperTest", "StringHelperTest\StringHelperTest.csproj", "{F3003C8E-B159-4D3F-8266-1FA17702316E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EA145F6D-C15E-47AA-BEAC-D387BB8B1533}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA145F6D-C15E-47AA-BEAC-D387BB8B1533}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA145F6D-C15E-47AA-BEAC-D387BB8B1533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3003C8E-B159-4D3F-8266-1FA17702316E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3003C8E-B159-4D3F-8266-1FA17702316E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3003C8E-B159-4D3F-8266-1FA17702316E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3003C8E-B159-4D3F-8266-1FA17702316E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
